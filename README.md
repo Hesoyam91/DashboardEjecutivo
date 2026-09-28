@@ -1,4 +1,4 @@
-# Dashboard Ejecutivo — Palvi
+# Dashboard Ejecutivo
 
 ## Cómo correrlo localmente
 
